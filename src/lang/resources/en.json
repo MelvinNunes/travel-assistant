@@ -1,0 +1,154 @@
+{
+    "title": "Destinos",
+    "lang": {
+        "label": "Language",
+        "select": "Select Language",
+        "options": {
+            "en": "English",
+            "pt": "Portuguese",
+            "fr": "French"
+        }
+    },
+    "error": {
+        "title": "Oops! Your destination plans have gone off the map!",
+        "description": "It looks like the page you're looking for has disappeared into the abyss. Don't worry, we'll help you find your way back.",
+        "home": "Take me back home"
+    },
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "auth_screen": {
+        "login": {
+            "title": "Login to your account",
+            "description": "Login and plan your next trip!",
+            "form": {
+                "email": {
+                    "label": "Email",
+                    "placeholder": "Enter email address",
+                    "invalid": "Invalid email address",
+                    "required": "Email is required"
+                },
+                "password": {
+                    "label": "Password",
+                    "placeholder": "Enter a password",
+                    "required": "Password is required"
+                },
+                "button": "Login",
+                "does_have_account": "New to Destinos?",
+                "register_new": "Create an account"
+            }
+        },
+        "register": {
+            "title": "Create your free account",
+            "description": "Create your free account to join 300,000+ travellers!",
+            "form": {
+                "name": {
+                    "label": "Name",
+                    "placeholder": "ex: Melvin Nunes",
+                    "required": "Name is required"
+                },
+                "email": {
+                    "label": "Email",
+                    "placeholder": "Enter email address",
+                    "invalid": "Invalid email address",
+                    "required": "Email is required"
+                },
+                "password": {
+                    "label": "Password",
+                    "placeholder": "Enter a password",
+                    "required": "Password is required",
+                    "min": "Password needs to have more than 3 words"
+                },
+                "button": "Create Account",
+                "already_have": "Already have an account?",
+                "login_to": "Login"
+            }
+        }
+    },
+    "hero": {
+        "title": "Discover Your Next Adventure.",
+        "description": "Your ultimate travel research companion.",
+        "search": {
+            "placeholder": "Search for a city"
+        }
+    },
+    "search_page": {
+        "title": "Search For Cities",
+        "recommendation_title": "Some cities you might like",
+        "results": "Results for your search"
+    },
+    "footer": {
+        "description": "Destinos is your ideal companion for exploring the world. Created by travel lovers, our goal is to simplify planning your adventures by offering essential information about cities around the world.",
+        "find_us": "Find Us",
+        "copyright": "Copyright © 2024 Destinos - All rights reserved.",
+        "privacy": "Privacy Policies",
+        "usage": "Terms of use",
+        "cookies": "Cookie Preferences"
+    },
+    "home": {
+        "section": {
+            "best_africa": {
+                "title": "Best African cities",
+                "description": "Africa has the most beautiful cities, with unique cultures, breathtaking landscapes, and beach destinations"
+            },
+            "best_europe": {
+                "title": "Best European cities",
+                "description": "Europe is a treasure trove of captivating cities, each offering a unique blend of history, culture, and modern attractions"
+            },
+            "best_asia": {
+                "title": "Best cities in Asia",
+                "description": "Asia is a continent of contrasts, where ancient traditions blend seamlessly with modern innovations."
+            }
+        },
+        "recommendation_card": {
+            "holidays": {
+                "title": "Holidays",
+                "description": "View recommendations"
+            },
+            "work": {
+                "title": "Work remotely",
+                "description": "View recommendations"
+            }
+        },
+        "promo": {
+            "one": {
+                "title": "Find essential city data: population, GDP, weather, and currency."
+            },
+            "two": {
+                "title": "Save your favorite destinations and plan your next trip."
+            }
+        },
+        "get_started": {
+            "title": "Unlock the World with Destino’s Guide.",
+            "description": "Plan your dream trip with confidence.",
+            "button_label": "Get Started"
+        }
+    },
+    "city_sample_card": {
+        "details_button_label": "Details"
+    },
+    "current_weather": {
+        "title": "Current Weather",
+        "feels": "Feels like",
+        "wind": "Wind:",
+        "humidity": "Humidity:"
+    },
+    "country": {
+        "title": "Country"
+    },
+    "forecast": {
+        "title": "Weather Forecast"
+    },
+    "population": {
+        "title": "Population"
+    },
+    "gdp": {
+        "title": "GDP"
+    },
+    "currency": {
+        "title": "Currency",
+        "base": "Base"
+    },
+    "no_data": "No data",
+    "login_to_view_more": "Login to view more details"
+}
